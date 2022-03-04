@@ -1,10 +1,10 @@
 import tweepy
 ########################Credentials###################################
 ##test
-ACCESS_TOKEN = ''
-ACCESS_SECRET = ''
-CONSUMER_KEY = ''
-CONSUMER_SECRET = ''
+ACCESS_TOKEN = '<INSERT YOUR TOKEN HERE>'
+ACCESS_SECRET = '<INSERT YOUR ACCESS SECRET HERE>'
+CONSUMER_KEY = '<INSERT CONSUMER KEY HERE'
+CONSUMER_SECRET = '<INSERT YOUR SECRET HERE. MINE IS THAT I LIKE HELLO KITTY'>
 
 
 ############ Connecting to the API
