@@ -1,10 +1,10 @@
 import tweepy
 ########################Credentials###################################
 ##test
-ACCESS_TOKEN = '1499463218229559297-Bq7TSxcCK0GKpvzC3uXyiYUJKVo3mE'
-ACCESS_SECRET = 'wNssxfxywc22GWJCxoHErVZWz2zR93zEj67pQ50Q0hPwz'
-CONSUMER_KEY = 'V7MYkA5PRGbvGrtmSe2UNOLZA'
-CONSUMER_SECRET = 'YQtC0C0kxxCWrQApVpQtUb2CM1fy9HDwjBpU86q0BM9N6b0kFs'
+ACCESS_TOKEN = ''
+ACCESS_SECRET = ''
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
 
 
 ############ Connecting to the API
