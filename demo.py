@@ -8,11 +8,11 @@ from tweepy import OAuthHandler
 from tweepy import Cursor
 import pandas as pd
 ########################Credentials###################################
-##test
-ACCESS_TOKEN = 
-ACCESS_SECRET = 
-CONSUMER_KEY = 
-CONSUMER_SECRET = 
+
+ACCESS_TOKEN = ''
+ACCESS_SECRET = ''
+CONSUMER_KEY = ''
+CONSUMER_SECRET =''
 
 
 ############ Connecting to the API
